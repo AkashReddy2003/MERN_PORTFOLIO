@@ -12,6 +12,9 @@
 .show-menu{
     left: 0;
 }
+.nav{
+    z-index: 1000;
+}
 
 .nav__link{
     display: flex;
