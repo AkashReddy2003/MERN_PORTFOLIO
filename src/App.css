@@ -107,9 +107,11 @@ img{
 .grid{
   display: grid;
   gap: 30px;
+  max-width: 900px;
 }
 .section{
   padding-block: 70px;
+  
 }
 
 .section__title{
